@@ -4,5 +4,8 @@ public class Main{
 		int b=10;
 		System.out.println("a="+a+" || b="+b);
 		System.out.println("a="+a+" es mayor que b="+b);
+		a=b;
+		System.out.println("a="+a+" || b="+b);
+		System.out.println("a="+a+" es igual que b="+b);
 	}
 }
